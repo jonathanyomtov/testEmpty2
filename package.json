@@ -33,7 +33,8 @@
     "prettyjson": "^1.1.2",
     "shush": "^1.0.0",
     "utile": "~0.3.0",
-    "winston": "~0.8.1"
+    "winston": "~0.8.1",
+		"lodash": "4.17.5"
   },
   "devDependencies": {
     "broadway": "~0.3.6",
@@ -56,3 +57,9 @@
   },
   "license": "MIT"
 }
+
+
+
+
+
+
